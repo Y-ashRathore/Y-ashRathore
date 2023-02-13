@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Y-ashRathore
 - 👀 I’m interested in Web development 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on C++ projects
 - 📫 Contact me on my email address meyashvardhan36@gmail.com
 
