@@ -1,20 +1,24 @@
-# Welcome to [Your Username]'s GitHub Profile!
-
-![Profile Banner](https://path/to/your/banner.jpg)
-
 ## 👋 Hello, World!
 
-Welcome to my GitHub profile! I'm [Your Name], a passionate developer and technology enthusiast. Here, you'll find a collection of my projects, contributions, and explorations. I love to build cool stuff and collaborate with others, so feel free to reach out to me for any collaboration or questions.
+💫 About Me:
+- 👋 Greetings! I go by the handle @Y-ashRathore.
+- 👀 My areas of interest includes DSA (Data Structures and Algorithms), Frontend Web Development utilizing React JS.
+- 🧑‍💻 I possess proficiency in C++, though I am also well-versed in HTML, CSS, Javascript, and C.
+- 🌱 Presently, I am learning in frontend development with ReactJS.
+- 📫 Feel free to get in touch with me through meyashvardhan36@gmail.com, @ya.sh.r on Instagram, or connect with me on LinkedIn at https://github.com/Y-ashRathore.
 
 ## 🔧 Technologies & Tools
 
 Here are some of the technologies and tools I enjoy working with:
 
-- Programming Languages: Python, JavaScript, Java, C++
-- Front-end: HTML, CSS, React, Vue.js
-- Back-end: Node.js, Flask, Django
-- Databases: MySQL, PostgreSQL, MongoDB
-- Tools: Git, GitHub, VS Code, Docker
+- Programming Languages: JavaScript, C++
+- Front-end: HTML, CSS, React, JQuery, Bootstrap
+- Back-end: Node.js
+- Databases: MySQL, MongoDB
+- Tools: Git, GitHub, VS Code, Linux
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ya.sh.r) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-vardhan-singh-rathore) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/chandravob) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/yrathore/)
 
 ## 🌱 Current Focus
 
