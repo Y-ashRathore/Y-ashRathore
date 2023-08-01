@@ -23,10 +23,5 @@
 
 [![](https://visitcount.itsvg.in/api?id=Y-ashRathpre&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide=contribs)
-
-
 ---
 Thank you for visiting my GitHub profile! Feel free to explore my repositories, and don't forget to leave a star ⭐️ if you find something you like! Happy coding! 🚀
