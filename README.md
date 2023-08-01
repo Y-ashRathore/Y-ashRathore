@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Y-ashRathore
 - 👀 I’m interested in Web development 
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on C++ projects
+- 🌱 I’m currently learning Frontend Development
+- 💞️ I’m looking to collaborate on frontend development projects.
 - 📫 Contact me on my email address meyashvardhan36@gmail.com
 
 <!---
