@@ -5,7 +5,7 @@
 - 👀 My areas of interest includes DSA (Data Structures and Algorithms), Frontend Web Development utilizing React JS.
 - 🧑‍💻 I possess proficiency in C++, though I am also well-versed in HTML, CSS, Javascript, and C.
 - 🌱 Presently, I am learning in frontend development with ReactJS.
-- 📫 Feel free to get in touch with me through meyashvardhan36@gmail.com, @ya.sh.r on Instagram, or connect with me on LinkedIn at https://github.com/Y-ashRathore.
+- 📫 Feel free to get in touch with me through meyashvardhan36@gmail.com, @ya.sh.r on Instagram, or connect with me on LinkedIn at [https://github.com/Y-ashRathore.](https://linkedin.com/in/yash-vardhan-singh-rathore)
 
 ## 🔧 Technologies & Tools
 
